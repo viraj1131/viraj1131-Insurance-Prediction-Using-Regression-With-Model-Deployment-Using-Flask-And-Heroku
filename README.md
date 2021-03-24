@@ -2,6 +2,9 @@
 
 <p>Main objective behind creating this project is to learn how to integrate machine learning model with a web app, how to create api for machine learning model, and how to deploy machine learning model on cloud. From machine learning point of view I have created basic regression model which will predcit insurance amount for an individual based on person given characterstics like age,gender,BMI,children, and region where they live. My motive here is to learn how to create a framework or api for machine learning model and deploy it so pardon me if the model is not 100% accurate.</p>
 
+
+## Link to Web App: https://predicting-insurance-api.herokuapp.com/
+
 <p>I have used data from Kaggle link is : <b>https://www.kaggle.com/mirichoi0218/insurance</b></p>
 
 <p>To learn how to creat web api and deploy model I have refered this youtube video: <b>https://www.youtube.com/watch?v=mrExsjcvF4o&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1&index=2</b></p>
